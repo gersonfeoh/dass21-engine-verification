@@ -1,8 +1,7 @@
 # DASS-21 Engine Verification
 
 Reference engine, mutant generator, test harness and test oracle for the article
-*Lattice-Aware Boundary and Mutation Testing of a DASS-21 Screening and Triage Engine*
-(G. Feoh, P. A. Primatanti, I G. D. Widarnandana, Universitas Dhyana Pura; submitted to Jurnal CoreIT).
+*Lattice-Aware Boundary and Mutation Testing of a DASS-21 Screening and Triage Engine*.
 
 All inputs are synthetic response vectors. No participant data are included.
 
