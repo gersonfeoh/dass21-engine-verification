@@ -1,0 +1,16 @@
+{
+ "acak_rerata": 99.8,
+ "acak_min": 97.8,
+ "acak_maks": 100.0,
+ "acak_seratus_persen": 93,
+ "ambang_dibangkitkan": 48,
+ "ambang_valid": 46,
+ "vektor_total": 4398046511104,
+ "gerbang_terbuka": 100465920,
+ "konflik": 6531840,
+ "konflik_persen_dari_gerbang": 6.5,
+ "ditandai": 3078954680320,
+ "konflik_persen_dari_ditandai": 0.0002,
+ "d_normal": 323,
+ "d_normal_kritis": 21
+}

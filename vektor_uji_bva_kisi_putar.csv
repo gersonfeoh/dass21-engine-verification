@@ -1,0 +1,36 @@
+kasus,kelompok,skor_D,skor_A,skor_S,b01,b02,b03,b04,b05,b06,b07,b08,b09,b10,b11,b12,b13,b14,b15,b16,b17,b18,b19,b20,b21,harapan_D,harapan_A,harapan_S,harapan_gerbang,harapan_penanda
+T01,BVA kisi nol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Normal,Normal,terbuka,tidak
+T02,BVA kisi D,8,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Normal,Normal,Normal,terbuka,tidak
+T03,BVA kisi D,10,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,Mild,Normal,Normal,tertutup,ya
+T04,BVA kisi D,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,Mild,Normal,Normal,tertutup,tidak
+T05,BVA kisi D,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,1,Moderate,Normal,Normal,tertutup,ya
+T06,BVA kisi D,20,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,Moderate,Normal,Normal,tertutup,ya
+T07,BVA kisi D,22,0,0,0,0,3,0,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,Severe,Normal,Normal,tertutup,ya
+T08,BVA kisi D,26,0,0,0,0,3,0,3,0,0,0,0,3,0,0,3,0,0,1,0,0,0,0,0,Severe,Normal,Normal,tertutup,ya
+T09,BVA kisi D,28,0,0,0,0,0,0,3,0,0,0,0,3,0,0,3,0,0,3,2,0,0,0,0,Extremely Severe,Normal,Normal,tertutup,ya
+T10,BVA kisi D,42,0,0,0,0,3,0,3,0,0,0,0,3,0,0,3,0,0,3,3,0,0,0,3,Extremely Severe,Normal,Normal,tertutup,ya
+T11,BVA kisi A,0,6,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Normal,Normal,terbuka,tidak
+T12,BVA kisi A,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,Normal,Mild,Normal,tertutup,tidak
+T13,BVA kisi A,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,Normal,Moderate,Normal,tertutup,tidak
+T14,BVA kisi A,0,14,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,Normal,Moderate,Normal,tertutup,tidak
+T15,BVA kisi A,0,16,0,0,3,0,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Severe,Normal,tertutup,tidak
+T16,BVA kisi A,0,18,0,0,0,0,3,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Severe,Normal,tertutup,tidak
+T17,BVA kisi A,0,20,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,3,0,0,0,1,0,0,Normal,Extremely Severe,Normal,tertutup,tidak
+T18,BVA kisi A,0,42,0,0,3,0,3,0,0,3,0,3,0,0,0,0,0,3,0,0,0,3,3,0,Normal,Extremely Severe,Normal,tertutup,tidak
+T19,BVA kisi S,0,0,14,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,1,0,0,0,Normal,Normal,Normal,terbuka,tidak
+T20,BVA kisi S,0,0,16,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,Normal,Normal,Mild,tertutup,tidak
+T21,BVA kisi S,0,0,18,3,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,Normal,Normal,Mild,tertutup,tidak
+T22,BVA kisi S,0,0,20,3,0,0,0,0,3,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,Normal,Normal,Moderate,tertutup,tidak
+T23,BVA kisi S,0,0,24,0,0,0,0,0,3,0,3,0,0,3,3,0,0,0,0,0,0,0,0,0,Normal,Normal,Moderate,tertutup,tidak
+T24,BVA kisi S,0,0,26,0,0,0,0,0,0,0,3,0,0,3,3,0,3,0,0,0,1,0,0,0,Normal,Normal,Severe,tertutup,tidak
+T25,BVA kisi S,0,0,32,3,0,0,0,0,1,0,0,0,0,3,3,0,3,0,0,0,3,0,0,0,Normal,Normal,Severe,tertutup,tidak
+T26,BVA kisi S,0,0,34,3,0,0,0,0,3,0,2,0,0,0,3,0,3,0,0,0,3,0,0,0,Normal,Normal,Extremely Severe,tertutup,tidak
+T27,BVA kisi S,0,0,42,3,0,0,0,0,3,0,3,0,0,3,3,0,3,0,0,0,3,0,0,0,Normal,Normal,Extremely Severe,tertutup,tidak
+T28,pelengkap keputusan,4,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,Normal,Normal,Normal,terbuka,tidak
+T29,pelengkap keputusan,6,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,Normal,Normal,Normal,terbuka,ya
+T30,pelengkap keputusan,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,Normal,Normal,Normal,terbuka,tidak
+T31,pelengkap keputusan,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,Normal,Normal,Normal,terbuka,ya
+T32,pelengkap keputusan,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Normal,Normal,Normal,terbuka,tidak
+T33,pelengkap keputusan,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,Normal,Normal,Normal,terbuka,ya
+T34,pelengkap keputusan,20,0,0,0,0,3,0,3,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,Moderate,Normal,Normal,tertutup,tidak
+T35,pelengkap keputusan,22,0,0,0,0,3,0,3,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0,Severe,Normal,Normal,tertutup,ya

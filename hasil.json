@@ -1,0 +1,1580 @@
+{
+ "tabel": {
+  "D": {
+   "pita": [
+    [
+     0,
+     9
+    ],
+    [
+     10,
+     13
+    ],
+    [
+     14,
+     20
+    ],
+    [
+     21,
+     27
+    ],
+    [
+     28,
+     42
+    ]
+   ],
+   "cakupan_bulat": true,
+   "tumpang_tindih": 0,
+   "titik_genap": [
+    5,
+    2,
+    4,
+    3,
+    8
+   ],
+   "nilai_genap": [
+    [
+     0,
+     2,
+     4,
+     6,
+     8
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     14,
+     16,
+     18,
+     20
+    ],
+    [
+     22,
+     24,
+     26
+    ],
+    [
+     28,
+     30,
+     32,
+     34,
+     36,
+     38,
+     40,
+     42
+    ]
+   ],
+   "batas_ganjil": [
+    21
+   ]
+  },
+  "A": {
+   "pita": [
+    [
+     0,
+     7
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     10,
+     14
+    ],
+    [
+     15,
+     19
+    ],
+    [
+     20,
+     42
+    ]
+   ],
+   "cakupan_bulat": true,
+   "tumpang_tindih": 0,
+   "titik_genap": [
+    4,
+    1,
+    3,
+    2,
+    12
+   ],
+   "nilai_genap": [
+    [
+     0,
+     2,
+     4,
+     6
+    ],
+    [
+     8
+    ],
+    [
+     10,
+     12,
+     14
+    ],
+    [
+     16,
+     18
+    ],
+    [
+     20,
+     22,
+     24,
+     26,
+     28,
+     30,
+     32,
+     34,
+     36,
+     38,
+     40,
+     42
+    ]
+   ],
+   "batas_ganjil": [
+    15
+   ]
+  },
+  "S": {
+   "pita": [
+    [
+     0,
+     14
+    ],
+    [
+     15,
+     18
+    ],
+    [
+     19,
+     25
+    ],
+    [
+     26,
+     33
+    ],
+    [
+     34,
+     42
+    ]
+   ],
+   "cakupan_bulat": true,
+   "tumpang_tindih": 0,
+   "titik_genap": [
+    8,
+    2,
+    3,
+    4,
+    5
+   ],
+   "nilai_genap": [
+    [
+     0,
+     2,
+     4,
+     6,
+     8,
+     10,
+     12,
+     14
+    ],
+    [
+     16,
+     18
+    ],
+    [
+     20,
+     22,
+     24
+    ],
+    [
+     26,
+     28,
+     30,
+     32
+    ],
+    [
+     34,
+     36,
+     38,
+     40,
+     42
+    ]
+   ],
+   "batas_ganjil": [
+    15,
+    19
+   ]
+  }
+ },
+ "mutan_total": 105,
+ "mutan_setara": 12,
+ "mutan_setara_nama": [
+  "D batas1 -1",
+  "D batas2 -1",
+  "D batas3 +1",
+  "D batas4 -1",
+  "A batas1 -1",
+  "A batas2 -1",
+  "A batas3 +1",
+  "A batas4 -1",
+  "S batas1 +1",
+  "S batas2 +1",
+  "S batas3 -1",
+  "S batas4 -1"
+ ],
+ "per_kelas": {
+  "M1 ambang": [
+   46,
+   12
+  ],
+  "M2 faktor": [
+   2,
+   0
+  ],
+  "M3 pemetaan butir": [
+   42,
+   0
+  ],
+  "M4 gerbang": [
+   5,
+   0
+  ],
+  "M5 penanda": [
+   10,
+   0
+  ]
+ },
+ "naif": {
+  "total_nilai": 30,
+  "tak_tercapai": 12
+ },
+ "rangkaian": {
+  "EP": {
+   "D": [
+    4,
+    12,
+    18,
+    24,
+    36
+   ],
+   "A": [
+    4,
+    8,
+    12,
+    18,
+    32
+   ],
+   "S": [
+    8,
+    18,
+    22,
+    30,
+    38
+   ]
+  },
+  "BVA naif": {
+   "D": [
+    0,
+    10,
+    14,
+    20,
+    28,
+    42
+   ],
+   "A": [
+    0,
+    8,
+    10,
+    14,
+    20,
+    42
+   ],
+   "S": [
+    0,
+    14,
+    18,
+    26,
+    34,
+    42
+   ]
+  },
+  "BVA kisi": {
+   "D": [
+    0,
+    8,
+    10,
+    12,
+    14,
+    20,
+    22,
+    26,
+    28,
+    42
+   ],
+   "A": [
+    0,
+    6,
+    8,
+    10,
+    14,
+    16,
+    18,
+    20,
+    42
+   ],
+   "S": [
+    0,
+    14,
+    16,
+    18,
+    20,
+    24,
+    26,
+    32,
+    34,
+    42
+   ]
+  },
+  "Tuntas satu faktor": {
+   "D": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42
+   ],
+   "A": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42
+   ],
+   "S": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42
+   ]
+  }
+ },
+ "hasil": {
+  "EP | depan": {
+   "kasus": 15,
+   "mutan_terbunuh": 42,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 45.2,
+   "per_kelas": {
+    "M1 ambang": [
+     5,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     26,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     4,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas1 +1",
+    "D batas1 +2",
+    "D batas2 +1",
+    "D batas2 +2",
+    "D batas3 -2",
+    "D batas3 -1",
+    "D batas3 +2",
+    "D batas4 -2",
+    "D batas4 +1",
+    "D batas4 +2",
+    "A batas1 -2",
+    "A batas2 +1",
+    "A batas2 +2",
+    "A batas3 -2",
+    "A batas3 -1",
+    "A batas3 +2",
+    "A batas4 +1",
+    "A batas4 +2",
+    "S batas1 -2",
+    "S batas1 -1",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas3 +1",
+    "S batas3 +2",
+    "S batas4 -2",
+    "S batas4 +1",
+    "S batas4 +2",
+    "butir 16 D ke A",
+    "butir 16 D ke S",
+    "butir 17 D ke A",
+    "butir 17 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "butir 9 A ke D",
+    "butir 9 A ke S",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S",
+    "butir 20 A ke D",
+    "butir 20 A ke S",
+    "butir 18 S ke D",
+    "butir 18 S ke A",
+    "penanda kategori mulai Moderate",
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori",
+    "penanda butir mulai nilai 2",
+    "penanda abaikan butir 17",
+    "penanda abaikan butir 21"
+   ]
+  },
+  "EP | putar": {
+   "kasus": 15,
+   "mutan_terbunuh": 52,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 55.9,
+   "per_kelas": {
+    "M1 ambang": [
+     5,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     36,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     4,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas1 +1",
+    "D batas1 +2",
+    "D batas2 +1",
+    "D batas2 +2",
+    "D batas3 -2",
+    "D batas3 -1",
+    "D batas3 +2",
+    "D batas4 -2",
+    "D batas4 +1",
+    "D batas4 +2",
+    "A batas1 -2",
+    "A batas2 +1",
+    "A batas2 +2",
+    "A batas3 -2",
+    "A batas3 -1",
+    "A batas3 +2",
+    "A batas4 +1",
+    "A batas4 +2",
+    "S batas1 -2",
+    "S batas1 -1",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas3 +1",
+    "S batas3 +2",
+    "S batas4 -2",
+    "S batas4 +1",
+    "S batas4 +2",
+    "butir 3 D ke A",
+    "butir 3 D ke S",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S",
+    "penanda kategori mulai Moderate",
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori",
+    "penanda butir mulai nilai 2",
+    "penanda abaikan butir 17",
+    "penanda abaikan butir 21"
+   ]
+  },
+  "EP | isolasi": {
+   "kasus": 15,
+   "mutan_terbunuh": 49,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 52.7,
+   "per_kelas": {
+    "M1 ambang": [
+     5,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     32,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     5,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas1 +1",
+    "D batas1 +2",
+    "D batas2 +1",
+    "D batas2 +2",
+    "D batas3 -2",
+    "D batas3 -1",
+    "D batas3 +2",
+    "D batas4 -2",
+    "D batas4 +1",
+    "D batas4 +2",
+    "A batas1 -2",
+    "A batas2 +1",
+    "A batas2 +2",
+    "A batas3 -2",
+    "A batas3 -1",
+    "A batas3 +2",
+    "A batas4 +1",
+    "A batas4 +2",
+    "S batas1 -2",
+    "S batas1 -1",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas3 +1",
+    "S batas3 +2",
+    "S batas4 -2",
+    "S batas4 +1",
+    "S batas4 +2",
+    "butir 10 D ke A",
+    "butir 10 D ke S",
+    "butir 17 D ke A",
+    "butir 17 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S",
+    "penanda tanpa aturan butir",
+    "penanda butir mulai nilai 2",
+    "penanda abaikan butir 10",
+    "penanda abaikan butir 17",
+    "penanda abaikan butir 21"
+   ]
+  },
+  "EP | putar + butir": {
+   "kasus": 21,
+   "mutan_terbunuh": 55,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 59.1,
+   "per_kelas": {
+    "M1 ambang": [
+     5,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     36,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     7,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas1 +1",
+    "D batas1 +2",
+    "D batas2 +1",
+    "D batas2 +2",
+    "D batas3 -2",
+    "D batas3 -1",
+    "D batas3 +2",
+    "D batas4 -2",
+    "D batas4 +1",
+    "D batas4 +2",
+    "A batas1 -2",
+    "A batas2 +1",
+    "A batas2 +2",
+    "A batas3 -2",
+    "A batas3 -1",
+    "A batas3 +2",
+    "A batas4 +1",
+    "A batas4 +2",
+    "S batas1 -2",
+    "S batas1 -1",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas3 +1",
+    "S batas3 +2",
+    "S batas4 -2",
+    "S batas4 +1",
+    "S batas4 +2",
+    "butir 3 D ke A",
+    "butir 3 D ke S",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S",
+    "penanda kategori mulai Moderate",
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori"
+   ]
+  },
+  "EP | depan + pelengkap": {
+   "kasus": 23,
+   "mutan_terbunuh": 53,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 57.0,
+   "per_kelas": {
+    "M1 ambang": [
+     8,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     28,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     10,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas1 +1",
+    "D batas1 +2",
+    "D batas2 +1",
+    "D batas2 +2",
+    "D batas4 -2",
+    "D batas4 +1",
+    "D batas4 +2",
+    "A batas1 -2",
+    "A batas2 +1",
+    "A batas2 +2",
+    "A batas3 -2",
+    "A batas3 -1",
+    "A batas3 +2",
+    "A batas4 +1",
+    "A batas4 +2",
+    "S batas1 -2",
+    "S batas1 -1",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas3 +1",
+    "S batas3 +2",
+    "S batas4 -2",
+    "S batas4 +1",
+    "S batas4 +2",
+    "butir 17 D ke A",
+    "butir 17 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "butir 9 A ke D",
+    "butir 9 A ke S",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S",
+    "butir 20 A ke D",
+    "butir 20 A ke S",
+    "butir 18 S ke D",
+    "butir 18 S ke A"
+   ]
+  },
+  "EP | putar + pelengkap": {
+   "kasus": 23,
+   "mutan_terbunuh": 63,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 67.7,
+   "per_kelas": {
+    "M1 ambang": [
+     8,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     38,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     10,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas1 +1",
+    "D batas1 +2",
+    "D batas2 +1",
+    "D batas2 +2",
+    "D batas4 -2",
+    "D batas4 +1",
+    "D batas4 +2",
+    "A batas1 -2",
+    "A batas2 +1",
+    "A batas2 +2",
+    "A batas3 -2",
+    "A batas3 -1",
+    "A batas3 +2",
+    "A batas4 +1",
+    "A batas4 +2",
+    "S batas1 -2",
+    "S batas1 -1",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas3 +1",
+    "S batas3 +2",
+    "S batas4 -2",
+    "S batas4 +1",
+    "S batas4 +2",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S"
+   ]
+  },
+  "BVA naif | depan": {
+   "kasus": 16,
+   "mutan_terbunuh": 65,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 69.9,
+   "per_kelas": {
+    "M1 ambang": [
+     23,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     30,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     5,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas2 -2",
+    "D batas3 +2",
+    "D batas4 -2",
+    "A batas1 -2",
+    "A batas3 +2",
+    "A batas4 -2",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas4 -2",
+    "butir 17 D ke A",
+    "butir 17 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S",
+    "butir 20 A ke D",
+    "butir 20 A ke S",
+    "butir 18 S ke D",
+    "butir 18 S ke A",
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori",
+    "penanda butir mulai nilai 2",
+    "penanda abaikan butir 17",
+    "penanda abaikan butir 21"
+   ]
+  },
+  "BVA naif | putar": {
+   "kasus": 16,
+   "mutan_terbunuh": 78,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 83.9,
+   "per_kelas": {
+    "M1 ambang": [
+     23,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     42,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     6,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas2 -2",
+    "D batas3 +2",
+    "D batas4 -2",
+    "A batas1 -2",
+    "A batas3 +2",
+    "A batas4 -2",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas4 -2",
+    "penanda kategori mulai Moderate",
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori",
+    "penanda abaikan butir 21"
+   ]
+  },
+  "BVA naif | isolasi": {
+   "kasus": 16,
+   "mutan_terbunuh": 72,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 77.4,
+   "per_kelas": {
+    "M1 ambang": [
+     23,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     38,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     4,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas2 -2",
+    "D batas3 +2",
+    "D batas4 -2",
+    "A batas1 -2",
+    "A batas3 +2",
+    "A batas4 -2",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas4 -2",
+    "butir 10 D ke A",
+    "butir 10 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan butir",
+    "penanda butir mulai nilai 2",
+    "penanda abaikan butir 10",
+    "penanda abaikan butir 17",
+    "penanda abaikan butir 21"
+   ]
+  },
+  "BVA naif | putar + butir": {
+   "kasus": 22,
+   "mutan_terbunuh": 79,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 84.9,
+   "per_kelas": {
+    "M1 ambang": [
+     23,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     42,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     7,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas2 -2",
+    "D batas3 +2",
+    "D batas4 -2",
+    "A batas1 -2",
+    "A batas3 +2",
+    "A batas4 -2",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas4 -2",
+    "penanda kategori mulai Moderate",
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori"
+   ]
+  },
+  "BVA naif | depan + pelengkap": {
+   "kasus": 24,
+   "mutan_terbunuh": 71,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 76.3,
+   "per_kelas": {
+    "M1 ambang": [
+     24,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     30,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     10,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas2 -2",
+    "D batas4 -2",
+    "A batas1 -2",
+    "A batas3 +2",
+    "A batas4 -2",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas4 -2",
+    "butir 17 D ke A",
+    "butir 17 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S",
+    "butir 20 A ke D",
+    "butir 20 A ke S",
+    "butir 18 S ke D",
+    "butir 18 S ke A"
+   ]
+  },
+  "BVA naif | putar + pelengkap": {
+   "kasus": 24,
+   "mutan_terbunuh": 83,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 89.2,
+   "per_kelas": {
+    "M1 ambang": [
+     24,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     42,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     10,
+     10
+    ]
+   },
+   "hidup": [
+    "D batas1 -2",
+    "D batas2 -2",
+    "D batas4 -2",
+    "A batas1 -2",
+    "A batas3 +2",
+    "A batas4 -2",
+    "S batas1 +2",
+    "S batas2 +2",
+    "S batas3 -2",
+    "S batas4 -2"
+   ]
+  },
+  "BVA kisi | depan": {
+   "kasus": 27,
+   "mutan_terbunuh": 76,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 81.7,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     30,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     5,
+     10
+    ]
+   },
+   "hidup": [
+    "butir 17 D ke A",
+    "butir 17 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S",
+    "butir 20 A ke D",
+    "butir 20 A ke S",
+    "butir 18 S ke D",
+    "butir 18 S ke A",
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori",
+    "penanda butir mulai nilai 2",
+    "penanda abaikan butir 17",
+    "penanda abaikan butir 21"
+   ]
+  },
+  "BVA kisi | putar": {
+   "kasus": 27,
+   "mutan_terbunuh": 88,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 94.6,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     42,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     5,
+     10
+    ]
+   },
+   "hidup": [
+    "penanda kategori mulai Moderate",
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori",
+    "penanda butir mulai nilai 2",
+    "penanda abaikan butir 21"
+   ]
+  },
+  "BVA kisi | isolasi": {
+   "kasus": 27,
+   "mutan_terbunuh": 84,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 90.3,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     38,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     5,
+     10
+    ]
+   },
+   "hidup": [
+    "butir 17 D ke A",
+    "butir 17 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "penanda tanpa aturan butir",
+    "penanda butir mulai nilai 2",
+    "penanda abaikan butir 10",
+    "penanda abaikan butir 17",
+    "penanda abaikan butir 21"
+   ]
+  },
+  "BVA kisi | putar + butir": {
+   "kasus": 33,
+   "mutan_terbunuh": 90,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 96.8,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     42,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     7,
+     10
+    ]
+   },
+   "hidup": [
+    "penanda kategori mulai Moderate",
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori"
+   ]
+  },
+  "BVA kisi | depan + pelengkap": {
+   "kasus": 35,
+   "mutan_terbunuh": 81,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 87.1,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     30,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     10,
+     10
+    ]
+   },
+   "hidup": [
+    "butir 17 D ke A",
+    "butir 17 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S",
+    "butir 20 A ke D",
+    "butir 20 A ke S",
+    "butir 18 S ke D",
+    "butir 18 S ke A"
+   ]
+  },
+  "BVA kisi | putar + pelengkap": {
+   "kasus": 35,
+   "mutan_terbunuh": 93,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 100.0,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     42,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     10,
+     10
+    ]
+   },
+   "hidup": []
+  },
+  "Tuntas satu faktor | depan": {
+   "kasus": 64,
+   "mutan_terbunuh": 77,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 82.8,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     30,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     6,
+     10
+    ]
+   },
+   "hidup": [
+    "butir 17 D ke A",
+    "butir 17 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S",
+    "butir 20 A ke D",
+    "butir 20 A ke S",
+    "butir 18 S ke D",
+    "butir 18 S ke A",
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori",
+    "penanda abaikan butir 17",
+    "penanda abaikan butir 21"
+   ]
+  },
+  "Tuntas satu faktor | putar": {
+   "kasus": 64,
+   "mutan_terbunuh": 91,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 97.8,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     42,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     8,
+     10
+    ]
+   },
+   "hidup": [
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori"
+   ]
+  },
+  "Tuntas satu faktor | isolasi": {
+   "kasus": 64,
+   "mutan_terbunuh": 84,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 90.3,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     38,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     5,
+     10
+    ]
+   },
+   "hidup": [
+    "butir 17 D ke A",
+    "butir 17 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "penanda tanpa aturan butir",
+    "penanda butir mulai nilai 2",
+    "penanda abaikan butir 10",
+    "penanda abaikan butir 17",
+    "penanda abaikan butir 21"
+   ]
+  },
+  "Tuntas satu faktor | putar + butir": {
+   "kasus": 69,
+   "mutan_terbunuh": 91,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 97.8,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     42,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     8,
+     10
+    ]
+   },
+   "hidup": [
+    "penanda kategori hanya Extremely Severe",
+    "penanda tanpa aturan kategori"
+   ]
+  },
+  "Tuntas satu faktor | depan + pelengkap": {
+   "kasus": 72,
+   "mutan_terbunuh": 81,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 87.1,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     30,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     10,
+     10
+    ]
+   },
+   "hidup": [
+    "butir 17 D ke A",
+    "butir 17 D ke S",
+    "butir 21 D ke A",
+    "butir 21 D ke S",
+    "butir 15 A ke D",
+    "butir 15 A ke S",
+    "butir 19 A ke D",
+    "butir 19 A ke S",
+    "butir 20 A ke D",
+    "butir 20 A ke S",
+    "butir 18 S ke D",
+    "butir 18 S ke A"
+   ]
+  },
+  "Tuntas satu faktor | putar + pelengkap": {
+   "kasus": 71,
+   "mutan_terbunuh": 93,
+   "mutan_tak_setara": 93,
+   "skor_mutasi": 100.0,
+   "per_kelas": {
+    "M1 ambang": [
+     34,
+     34
+    ],
+    "M2 faktor": [
+     2,
+     2
+    ],
+    "M3 pemetaan butir": [
+     42,
+     42
+    ],
+    "M4 gerbang": [
+     5,
+     5
+    ],
+    "M5 penanda": [
+     10,
+     10
+    ]
+   },
+   "hidup": []
+  }
+ }
+}
