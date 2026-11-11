@@ -55,3 +55,11 @@ Run it against an isolated copy, not against a deployment that stores results.
 ## License
 
 MIT. See `LICENSE`.
+
+## Conformance harness
+
+The folder `konformansi/` contains the harness that runs the platform's scoring and eligibility functions against the 35-vector oracle. The platform source itself is not distributed. See `konformansi/README.md`.
+
+## Note on the exported oracle
+
+`uji.py` indexes the rotating construction over the suite before repeated all-zero cases are removed, whereas `tambahan.py` numbers the cases after removing them. The two indexings place the load on different items in the anxiety and stress blocks, so 20 of the 35 vectors in `vektor_uji_bva_kisi_putar.csv` coincide with the vectors analysed in `uji.py`. The exported oracle was re-executed against all 93 non-equivalent mutants and also kills 93 of 93.
