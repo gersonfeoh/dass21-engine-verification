@@ -1,0 +1,22 @@
+{
+  "title": "dass21-engine-verification: reference engine, mutants, conformance harness and 35-vector test oracle for a DASS-21 screening and triage engine",
+  "upload_type": "software",
+  "description": "<p>Reference engine, 105 first-order mutants, mutation analysis scripts, conformance harness and the 35-vector test oracle accompanying the article <em>Lattice-Aware Boundary and Mutation Testing of a DASS-21 Screening and Triage Engine</em>. All inputs are synthetic response vectors; no participant data are included. The platform source code is not part of this archive.</p>",
+  "creators": [
+    {
+      "name": "Feoh, Gerson",
+      "affiliation": "Universitas Dhyana Pura",
+      "orcid": "0000-0003-0511-4798"
+    }
+  ],
+  "keywords": [
+    "DASS-21",
+    "boundary value analysis",
+    "mutation testing",
+    "software verification",
+    "test oracle"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng"
+}
